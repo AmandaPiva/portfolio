@@ -9,7 +9,9 @@ export default function Contact() {
         <div className="flex flex-row items-center gap-4">
           <MailPlus />
           <a
-            href="mailto:amandamariapiva@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=amandamariapiva@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-center hover:underline text-white"
           >
             amandamariapiva@gmail.com

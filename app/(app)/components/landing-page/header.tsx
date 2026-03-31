@@ -4,7 +4,7 @@ export default function Header() {
       <div className="flex flex-col items-center gap-4 max-w-3xl text-center px-4 mt-12">
         <img
           className="rounded-full w-[200px] h-[200px] object-cover"
-          src="/perfil.jpeg"
+          src="/perfil-fundo.png"
           alt="perfil"
         />
         <h1 className="text-3xl mt-8 font-bold ml-4">
