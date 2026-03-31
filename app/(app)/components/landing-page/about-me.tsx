@@ -2,7 +2,7 @@ import { Heart, Code, Lightbulb } from "lucide-react";
 
 export default function AboutMe() {
   return (
-    <div className="flex flex-col justify-center items-center min-h-screen p-8">
+    <div className="flex flex-col justify-center items-center min-h-screen p-8 mt-12">
       <div className="max-w-4xl w-full">
         <h1 className="text-4xl font-bold text-center mb-12">Sobre mim</h1>
 
